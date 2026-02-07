@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53b586c923149ab42858d8cdd5f165ce, type: 3}
+  m_Name: L1CSD
+  m_EditorClassIdentifier: Assembly-CSharp::GameCore.Player.Class.ClassData
+  className: L1-CSD
+  roleType: 0
+  teamRole: 0
+  classColor: {r: 0.8018868, g: 0.8018868, b: 0.14751692, a: 1}
+  playerSetings: {fileID: 11400000, guid: ffc9c4414c558e94a82d4d62533ac2a4, type: 2}
+  spawnPointTag: CSDpoint
+  nameCutScene: 
+  modelIndex: 0

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{d0685f90-9c68-4d82-bbb4-14dac8345897}">
+		<property name="assetPath">
+			<value>Menu Start.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.313015873015873</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{746afaa0-9bdf-44b5-907f-308892ef8100}</destination>
+		</relationship>
+	</object>
+</objects>

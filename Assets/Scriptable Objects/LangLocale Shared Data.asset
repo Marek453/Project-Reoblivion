@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LangLocale Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: LangLocale
+  m_TableCollectionNameGuidString: d9f4ffe945794ca43ac452d5e496d349
+  m_Entries:
+  - m_Id: 10054242304
+    m_Key: play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 968830193664
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1059892727808
+    m_Key: credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1752326180864
+    m_Key: conn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628063301632
+    m_Key: ip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2844724269056
+    m_Key: host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3336967786496
+    m_Key: game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3417662001152
+    m_Key: input
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3800618733568
+    m_Key: video
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3888128692224
+    m_Key: audio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4653438177280
+    m_Key: audioSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5262618890240
+    m_Key: wideoSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5442839744512
+    m_Key: gameSettings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5899649781760
+    m_Key: displayMode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6122920972288
+    m_Key: resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6194727456768
+    m_Key: vsync
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6603986669568
+    m_Key: apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8208429584384
+    m_Key: dissconn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8408309141504
+    m_Key: resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9227603513344
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327090520428544
+    m_Key: lastRnd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 388612781215744
+    m_Key: lang
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5472164484943446240
+  references:
+    version: 2
+    RefIds:
+    - rid: 5472164484943446240
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1767004039980

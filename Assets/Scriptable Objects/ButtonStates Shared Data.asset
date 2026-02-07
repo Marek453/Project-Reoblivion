@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: ButtonStates Shared Data
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
+  m_TableCollectionName: ButtonStates
+  m_TableCollectionNameGuidString: f55a5387f7990eb4993a898a03ba13ed
+  m_Entries:
+  - m_Id: 14969966592
+    m_Key: close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55428222976
+    m_Key: open
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69021962240
+    m_Key: wait
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140929110016
+    m_Key: lockDown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161435062272
+    m_Key: Dinated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230519443456
+    m_Key: offline
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3604792811687936
+    m_Key: reactor
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5472164509343285335
+  references:
+    version: 2
+    RefIds:
+    - rid: 5472164509343285335
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1767097809397

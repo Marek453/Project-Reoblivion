@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LangLocale_pl
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: d9f4ffe945794ca43ac452d5e496d349, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 5472164506217218049
+  m_TableData:
+  - m_Id: 10054242304
+    m_Localized: "GRA\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 968830193664
+    m_Localized: USTAWIENIA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1059892727808
+    m_Localized: KREDYTY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1752326180864
+    m_Localized: "\u0141\u0104CZY\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2628063301632
+    m_Localized: WPISZ IP...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2844724269056
+    m_Localized: HOST
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3336967786496
+    m_Localized: GRA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3417662001152
+    m_Localized: STEROWANIE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3800618733568
+    m_Localized: WIDEO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3888128692224
+    m_Localized: "D\u0179WI\u0118K"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4653438177280
+    m_Localized: "USTAWIENIA D\u0179WI\u0118KU"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5262618890240
+    m_Localized: USTAWIENIA WIDEO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5442839744512
+    m_Localized: USTAWIENIA GRY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5899649781760
+    m_Localized: "TRYB WY\u015AWIETLANIA"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6122920972288
+    m_Localized: REZOLUCJA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6194727456768
+    m_Localized: SYNCHRONIZACJA PIONOWA
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6603986669568
+    m_Localized: Zastosuj zmiany
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8208429584384
+    m_Localized: "OD\u0141\u0104CZY\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8408309141504
+    m_Localized: "KONTYNUOWA\u0106"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9227603513344
+    m_Localized: "WYJ\u015ACIE"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 327090520428544
+    m_Localized: OSTATNIA RUNDA<br><size=30>{data.dateLastRound}
+    m_Metadata:
+      m_Items:
+      - rid: 5472164506217218049
+  - m_Id: 388612781215744
+    m_Localized: "J\u0118ZYK"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5472164506217218049
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 327090520428544

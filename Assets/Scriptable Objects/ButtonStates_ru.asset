@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ButtonStates_ru
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.StringTable
+  m_LocaleId:
+    m_Code: ru
+  m_SharedData: {fileID: 11400000, guid: f55a5387f7990eb4993a898a03ba13ed, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 14969966592
+    m_Localized: "<color=#0080FF>\u0417\u0410\u041A\u0420\u042B\u0422\u041E<br><size=5>------------</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 69021962240
+    m_Localized: "<color=yellow>\u041F\u041E\u0414\u041E\u0416\u0414\u0418\u0422\u0415<br><size=5>------------</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55428222976
+    m_Localized: "<color=green>\u041E\u0422\u041A\u0420\u042B\u0422\u041E<br><size=5>------------</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 140929110016
+    m_Localized: "<color=Red>\u0417\u0410\u0411\u041B\u041E\u041A\u0418\u0420\u041E\u0412\u0410\u041D\u041E<br><size=5>------------</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 161435062272
+    m_Localized: "<color=Red>\u0414\u041E\u0421\u0422\u0423\u041F \u0417\u0410\u041F\u0420\u0415\u0429\u0401\u041D<br><size=5>------------</size>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 230519443456
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3604792811687936
+    m_Localized: "<color=Red>\u042D\u0412\u0410\u041A\u0423\u0410\u0426\u0418\u042F<br><size=5>------------</size>"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
